@@ -180,3 +180,13 @@ h2 {
 .call-to-action button {
   border: 1px solid white;
 }
+
+.footer {
+  background-color: #1F2937;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  color: rgb(197, 189, 189);
+  font-size: 12px;
+}
